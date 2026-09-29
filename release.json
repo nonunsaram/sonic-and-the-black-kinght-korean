@@ -1,0 +1,30 @@
+{
+  "version": "v0.1-alpha",
+  "title": "v0.1 alpha",
+  "game": "Sonic and the Black Knight",
+  "game_id": "RENE8P",
+  "base_region": "USA",
+  "base_size": 4699979776,
+  "base_sha256": "dd2fdfe0edbbd13fcf69cee9cf6bf5ce7096f8b340a67c6f56f7028c22df65ad",
+  "patched_sha256": "1616c1a7ca2306e13160ac03f11fa5cb9ce62f6125dcc26fcc866a05cb1ffd5c",
+  "patch_file": "sonic-and-the-black-kinght-korean-v0.1-alpha.xdelta",
+  "patch_sha256": "86e3a9ea2bfa1415dd2d7bd44fbd07cc241feb46bcc1c5a225c18cd18e7271f5",
+  "patch_size": 59828127,
+  "controller_file": "Sonic-Black-Knight-Xbox.ini",
+  "controller_sha256": "b8122aa4e675c24fbd28165600e938aa377b172e1e423fb7106e1535122815ed",
+  "xdelta_version": "3.2.1",
+  "xdelta_sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943",
+  "source_build": "v16-dialogue",
+  "source_commit": "bc3816e",
+  "verification": {
+    "total_game_files": 914,
+    "patched_files": 35,
+    "unchanged_game_files": 879,
+    "main_dol_unchanged": true,
+    "wit_hash_verification": true,
+    "xdelta_roundtrip_sha256": "1616c1a7ca2306e13160ac03f11fa5cb9ce62f6125dcc26fcc866a05cb1ffd5c",
+    "target_sha256": "1616c1a7ca2306e13160ac03f11fa5cb9ce62f6125dcc26fcc866a05cb1ffd5c"
+  },
+  "runtime_verified": false,
+  "full_audio_review_complete": false
+}
